@@ -26,7 +26,7 @@
 <img src="captures/14.png">
 <h3>Affichage d'un message pour confirmer la suppresion</h3>
 <img src="captures/16.png">
-<h3>Rendu HTML aprés suppression du produit dont l'ID est 3  </h3>
+<h3>Rendu HTML aprés suppression du produit dont l'ID est 1  </h3>
 <img src="captures/15.png">
 
 
